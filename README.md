@@ -1,30 +1,5 @@
 <div align="center">
 
-<h1>Eman Mohamed Ali</h1>
-
-<h2>Data Analyst 📊</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/eman-mohamed-219945321/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/emanmohamedali387">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="mailto:emanmohamedali387@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-</div>
-
----
-
-
-<div align="center">
-
 # Eman Mohamed Ali
 
 ### Data Analyst 📊
@@ -37,13 +12,17 @@ Turning data into clear insights and meaningful business decisions.
 
 ---
 
-## 🎯 Focusing
+## 🎯 About Me
 
-Business Information Systems student passionate about Data Analysis and Data Visualization.
+🎓 Business Information Systems Student passionate about Data Analysis and Business Intelligence.
 
-I enjoy working with data to discover trends, analyze performance, build dashboards, and turn raw data into clear and useful insights.
+📊 Interested in analyzing data, discovering trends, and creating clear and interactive dashboards.
 
-Currently building my skills through hands-on projects using Excel, Power BI, SQL, Power Query, and DAX.
+🛠️ Developing my skills in Excel, Power BI, SQL, Power Query, and DAX through practical projects.
+
+🚀 Currently building my portfolio with data analysis projects and continuously improving my technical and analytical skills.
+
+🎯 My goal is to become a professional Data Analyst and create projects that turn data into valuable business insights.
 
 ---
 
@@ -51,8 +30,8 @@ Currently building my skills through hands-on projects using Excel, Power BI, SQ
 
 ### Data Analysis
 
-- Data Cleaning & Preparation
-- Exploratory Data Analysis
+- Data Cleaning
+- Data Analysis
 - KPI Analysis
 - Data Visualization
 - Business Insights
@@ -66,7 +45,5 @@ Currently building my skills through hands-on projects using Excel, Power BI, SQ
 - Power Query
 - DAX
 - Pivot Tables
-- Charts & Dashboards
 
----
 
