@@ -6,7 +6,19 @@
 
 Excel • Power BI • SQL • Power Query • DAX
 
-Turning data into clear insights and meaningful business decisions.
+<p>
+  <a href="https://www.linkedin.com/in/eman-mohamed-219945321/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/emanmohamedali387">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="mailto:emanmohamedali387@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 </div>
 
