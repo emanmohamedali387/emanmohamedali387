@@ -63,6 +63,8 @@ Thank you for visiting my GitHub portfolio!
 I hope you enjoy exploring my projects and find them valuable and interesting. Each project reflects my journey in developing my skills in **Data Analysis and Business Intelligence** through practical applications.
 
 Feel free to explore my projects, dashboards, and analyses. Your feedback and suggestions are always welcome!
+
+
 📩 **For any inquiries, opportunities, or collaboration, feel free to contact me via email:**  
 **emanmohamedali387@gmail.com**
 
